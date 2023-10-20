@@ -1,0 +1,6 @@
+v0.1 (20.10.2023)
+    Added 3 first Bytes upgrades: Binary Encoder, Multi-processing and Data Cascade. Each next upgrade boosts the previous one.
+
+    Added Efficiency, which boosts Bytes gain at the cost of your system. When you store more than 1e6 Bytes, you can reset all Bytes upgrades
+    and Bytes in exchange for Efficiency. Efficiency is measured in percentage, each % corresponds to +×0.01 boost to Bytes. The initial
+    Efficiency is 100% (×1).
