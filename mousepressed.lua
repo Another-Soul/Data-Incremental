@@ -49,7 +49,7 @@ function love.mousepressed(x, y, button, istouch, presses)
                     DataCascadePrice = 8192
 
                     MultiProcessingPurchases = 0
-                    DataCascadePower = 1
+                    MultiProcessingPower = 1
                     MultiProcessingEffect = MultiProcessingPurchases * MultiProcessingPower + 1
                     MultiProcessingPrice = 512
 
